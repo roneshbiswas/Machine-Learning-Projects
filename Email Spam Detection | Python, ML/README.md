@@ -1,7 +1,3 @@
-Here is the GitHub README documentation for the **Email Spam Detection** project, which is designed to detail the project's processes and results comprehensively, showcasing the work to potential recruiters.
-
----
-
 # Email Spam Detection
 
 ## Introduction
@@ -165,7 +161,3 @@ The final model results indicate that our approach achieved optimal results usin
 ### Conclusion
 
 The Email Spam Detection project demonstrates a structured approach to text classification with high-performing models. Although the current implementation provides reliable results, future work could explore hyperparameter tuning with Stratified K-Fold Cross-Validation to further enhance the model, recognizing that this would require substantial computational resources.
-
----
-
-This documentation outlines each step in the project, providing clear insights into the modeling decisions and outcomes. It demonstrates a thorough understanding of data processing, model selection, and evaluation methods, effectively showcasing the project for potential recruiters.
